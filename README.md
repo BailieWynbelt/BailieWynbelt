@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @BailieWynbelt
-- 👀 I’m interested in ecological data science and data visualization
-- 🌱 I’m currently learning R, Python, and SQL
 
 
 <!---
